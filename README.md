@@ -230,7 +230,7 @@ http://localhost/hotel_reservation/login.php
 ## Screenshot
 
 ### Home
-<img src="assets/screenshots/home.png" width="800">
+<img src="https://github.com/kayfadyah-ship-it/Reservation_Hotel/blob/main/assets/screenshots/home.png?raw=true" width="800">
 
 ### Booking
 <img src="assets/screenshots/booking.png" width="800">
