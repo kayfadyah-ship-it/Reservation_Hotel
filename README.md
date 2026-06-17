@@ -229,20 +229,22 @@ http://localhost/hotel_reservation/login.php
 ```
 ## Screenshot
 
+## Screenshot
+
 ### Home
-![Home](./assets/screenshots/home.png)
+<img src="assets/screenshots/home.png" width="800">
 
 ### Booking
-![Booking](./assets/screenshots/booking.png)
+<img src="assets/screenshots/booking.png" width="800">
 
 ### Favorite
-![Favorite](./assets/screenshots/favorite.png)
+<img src="assets/screenshots/favorite.png" width="800">
 
 ### Search Hotel
-![Search](./assets/screenshots/search.png)
+<img src="assets/screenshots/search.png" width="800">
 
 ### Mobile View
-![Mobile](./assets/screenshots/mobile.png)
+<img src="assets/screenshots/mobile.png" width="400">
 
 ## Akun Login Default
 
