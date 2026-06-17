@@ -230,19 +230,19 @@ http://localhost/hotel_reservation/login.php
 ## Screenshot
 
 ### Home
-![Home](assets/screenshots/home.png)
+![Home](./assets/screenshots/home.png)
 
 ### Booking
-![Booking](assets/screenshots/booking.png)
+![Booking](./assets/screenshots/booking.png)
 
 ### Favorite
-![Favorite](assets/screenshots/favorite.png)
+![Favorite](./assets/screenshots/favorite.png)
 
 ### Search Hotel
-![Search](assets/screenshots/search.png)
+![Search](./assets/screenshots/search.png)
 
 ### Mobile View
-![Mobile](assets/screenshots/mobile.png)
+![Mobile](./assets/screenshots/mobile.png)
 
 ## Akun Login Default
 
