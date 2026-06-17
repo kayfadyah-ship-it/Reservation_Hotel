@@ -1,5 +1,10 @@
 # Hotel Reservation System
 
+## Repository
+
+GitHub Repository:
+https://github.com/kayfadyah-ship-it/Reservation_Hotel
+
 ## Deskripsi Project
 
 Hotel Reservation System adalah aplikasi web berbasis PHP dan MySQL yang digunakan untuk melakukan reservasi hotel &domestik & internasional secara online. Pengguna dapat melihat daftar hotel berdasarkan negara tujuan, melakukan pemesanan kamar, melakukan pembayaran, melihat riwayat reservasi, serta mengelola profil pengguna.
@@ -83,36 +88,41 @@ Aplikasi ini dibuat sebagai Proyek Ujian Akhir pembelajaran Praktikum Pengembang
 hotel_reservation/
 │
 ├── assets/
-│   └── img/
+│   ├── img/
+│   └── screenshots/
 │
 ├── includes/
-│   └── config.php
 │
-├── booking.php
-├── edit_profile.php
-├── edit_ruangan.php
-├── favorite.php
-├── forgot password.php
-├── hasil_payment.php
-├── history_pemesanan.php
-├── home.php
-├── hotel.php
-├── indeks.php
-├── login.php
-├── logout.php
-├── notifikasi.php
-├── payment.php
-├── profile.php
-├── signup.php
-├── tambah_booking.php
-├── tambah_ruangan.php
-└── hapus_ruangan.php
+├── pages/
+│   ├── booking.php
+│   ├── edit_profile.php
+│   ├── edit_ruangan.php
+│   ├── favorite.php
+│   ├── forgot_password.php
+│   ├── hasil_payment.php
+│   ├── history_pemesanan.php
+│   ├── home.php
+│   ├── hotel.php
+│   ├── login.php
+│   ├── logout.php
+│   ├── notifikasi.php
+│   ├── payment.php
+│   ├── profile.php
+│   ├── signup.php
+│   ├── tambah_booking.php
+│   ├── tambah_ruangan.php
+│   └── hapus_ruangan.php
+│
+├── index.php
+├── database.sql
+├── .gitignore
+└── README.md
 
 ## Database
 
 Nama database:
 
-hotel_reservation
+database.sql
 
 ### Tabel Database
 
@@ -187,7 +197,7 @@ hotel_reservation
 
 4. Import file:
 
-hotel_reservation baru.sql
+database.sql
 
 
 ### 3. Konfigurasi Database
@@ -217,6 +227,23 @@ atau
 ```
 http://localhost/hotel_reservation/login.php
 ```
+## Screenshot
+
+### Home
+![Home](assets/screenshots/home.png)
+
+### Booking
+![Booking](assets/screenshots/booking.png)
+
+### Favorite
+![Favorite](assets/screenshots/favorite.png)
+
+### Search Hotel
+![Search](assets/screenshots/search.png)
+
+### Mobile View
+![Mobile](assets/screenshots/mobile.png)
+
 ## Akun Login Default
 
 Username : admin
