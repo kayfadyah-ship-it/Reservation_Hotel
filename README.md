@@ -229,8 +229,6 @@ http://localhost/hotel_reservation/login.php
 ```
 ## Screenshot
 
-## Screenshot
-
 ### Home
 <img src="assets/screenshots/home.png" width="800">
 
