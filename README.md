@@ -230,19 +230,19 @@ http://localhost/hotel_reservation/login.php
 ## Screenshot
 
 ### Home
-<img src="https://github.com/kayfadyah-ship-it/Reservation_Hotel/blob/main/assets/screenshots/home.png?raw=true" width="800">
+<img src="https://raw.githubusercontent.com/kayfadyah-ship-it/Reservation_Hotel/main/assets/screenshots/home.png" width="800">
 
 ### Booking
-<img src="assets/screenshots/booking.png" width="800">
+<img src="https://raw.githubusercontent.com/kayfadyah-ship-it/Reservation_Hotel/main/assets/screenshots/booking.png" width="800">
 
 ### Favorite
-<img src="assets/screenshots/favorite.png" width="800">
+<img src="https://raw.githubusercontent.com/kayfadyah-ship-it/Reservation_Hotel/main/assets/screenshots/favorite.png" width="800">
 
 ### Search Hotel
-<img src="assets/screenshots/search.png" width="800">
+<img src="https://raw.githubusercontent.com/kayfadyah-ship-it/Reservation_Hotel/main/assets/screenshots/search.png" width="800">
 
 ### Mobile View
-<img src="assets/screenshots/mobile.png" width="400">
+<img src="https://raw.githubusercontent.com/kayfadyah-ship-it/Reservation_Hotel/main/assets/screenshots/mobile.png" width="400">
 
 ## Akun Login Default
 
